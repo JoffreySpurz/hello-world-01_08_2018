@@ -5,3 +5,5 @@ Pull to revert (depuis GitHub).
 
 Mais avant je fais un commit !
 Je fais un push depuis ma machine.
+
+Signé : Joffrey
